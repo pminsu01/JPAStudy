@@ -1,7 +1,7 @@
 //package com.jpastudy.ms.domain.service;
 //
-//import com.jpastudy.ms.domain.Entity.FoodEntity;
-//import com.jpastudy.ms.domain.Entity.StoreEntity;
+//import com.jpastudy.ms.domain.Entity.Relational.FoodEntity;
+//import com.jpastudy.ms.domain.Entity.Relational.StoreEntity;
 //import lombok.RequiredArgsConstructor;
 //import org.springframework.stereotype.Component;
 //import org.springframework.transaction.annotation.Transactional;

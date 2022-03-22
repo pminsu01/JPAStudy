@@ -1,4 +1,4 @@
-package com.jpastudy.ms.domain.Entity;
+package com.jpastudy.ms.domain.Entity.Relational;
 
 
 import lombok.AccessLevel;
